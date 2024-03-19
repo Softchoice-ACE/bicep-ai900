@@ -6,3 +6,4 @@ DISABLE_LINTERS:
 - REPOSITORY_KICS
 FILTER_REGEX_EXCLUDE: (.github/workflows/mega-linter.yml|)
 SPELL_FILTER_REGEX_EXCLUDE: (?i)\b(KICS|Softchoice)\b
+VALIDATE_ALL_CODEBASE: true
