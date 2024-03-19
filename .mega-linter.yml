@@ -4,4 +4,5 @@ GITHUB_COMMENT_REPORTER: true
 DISABLE_LINTERS:
 - SPELL_LYCHEE
 - REPOSITORY_KICS
-FILTER_REGEX_EXCLUDE: (.github/workflows/mega-linter.yml)
+FILTER_REGEX_EXCLUDE: (.github/workflows/mega-linter.yml|)
+SPELL_FILTER_REGEX_EXCLUDE: (?i)\b(KICS|Softchoice)\b
