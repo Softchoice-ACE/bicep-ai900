@@ -1,5 +1,5 @@
 param nameSeed string
-param identifier int = 01
+param identifier int = 02
 param location string
 param tenantId string
 

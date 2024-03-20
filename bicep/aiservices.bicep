@@ -1,5 +1,5 @@
 param nameSeed string
-param identifier int = 01
+param identifier int = 02
 param location string
 param ai_services_sku string = 'S0'
 param ai_language_sku string = 'F0'
