@@ -1,3 +1,5 @@
+Edit directly in main
+
 # Bicep Experiments with the AI-900 Learning Modules
 
 This repo contains Bicep code to deploy Azure resources used throughout the Microsoft Learn AI-900 learning tracks.
